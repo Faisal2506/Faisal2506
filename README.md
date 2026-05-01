@@ -1,87 +1,64 @@
-<!--## Hi there 👋
+<h1 align="center">Hi, I'm Faisal 👋</h1>
 
-**Faisal2506/Faisal2506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>I love to build systems that turn ideas into working products.</b>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  Full-stack developer • AI agents • DevOps • Product engineering
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmZnbXNoemdsYWpybDlqYzltcmZjeTc3OW00NTQydDRjN3hpdDU4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" width="150"/>
-
-
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/faisal-shah-b75bb5209">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<p align="center">
+  <a href="https://github.com/Faisal2506">
+    <img src="https://komarev.com/ghpvc/?username=Faisal2506&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://github.com/Faisal2506?tab=followers">
+    <img src="https://img.shields.io/github/followers/Faisal2506?label=Followers&style=social" alt="GitHub followers" />
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-
-</div>
-  <img src="https://komarev.com/ghpvc/?username=Faisal2506&style=flat-square&color=blue" alt=""/>
-
-  <h1>
-  Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-<div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmszaWJxajM4cHdkbmFjMGsxbjdjNnY3MTRldjcxZGw0ZTlnbndzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="600" height="300"/>
-</div>
-
-<div align="left">
+</p>
 
 ---
-  
-## :man_technologist: About me:
 
-I am a passionate Junior Software Engineer with experience in web and mobile development. I have a strong foundation in HTML, CSS, Bootstrap, JavaScript, and Java, and I am currently honing my skills in React Native through an internship. I enjoy solving complex problems and am always eager to learn new technologies.
+## 🚀 About Me
 
-## 🔧 Technologies & Tools
+I’m a developer who enjoys building practical, production-ready systems — from full-stack web apps to AI calling workflows, backend APIs, infrastructure, automations, and analytics dashboards.
 
-- **Languages:** HTML, CSS, JavaScript, Java
-- **Frameworks/Libraries:** Bootstrap, React Native
-- **Other Skills:** Android Development
-- **Currently Learning:** Spring MVC, Java Backend Development
-- **Version Control:** Git, GitHub
+I like working close to real-world problems: shipping features, debugging production issues, improving reliability, and turning rough ideas into usable products.
 
-## 🌱 Currently Learning
-
-- Advanced React Native Development
-- Spring MVC for Java Backend Development
-- Spring Boot for Java Backend Development
-- Advanced CSS techniques
+- 🔭 Currently building products around **AI calling, automation, and workflow intelligence**
+- 🧠 Interested in **AI agents, voice infra, backend architecture, DevOps, and product systems**
+- ⚙️ I enjoy working across the stack: frontend, backend, databases, queues, deployments, and monitoring
+- 🌱 Always improving how I design, ship, and scale systems
+- 💬 Ask me about **Next.js, FastAPI, Postgres, Docker, Redis, AI agents, and production debugging**
 
 ---
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React Native" alt="ReactNative" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="Css" alt="Css" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySql" alt="MySql" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJs" alt="NodeJs" width="40" height="40"/>&nbsp;
-<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp; -->
-  
-  
-  
-</div>
-</div>
 
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,fastapi,postgres,redis,docker,nginx,linux,git,github,vscode" />
+</p>
+
+### Tools & Platforms I Work With
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+</p>
+
+---
+
+## ⚡ What I Like Building
+
+```txt
+Backend APIs             ████████████████████
+Full-stack products      ███████████████████
+DevOps & deployments     ██████████████████
+Data & analytics         ████████████████
+Automation systems       █████████████████
