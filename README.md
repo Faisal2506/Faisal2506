@@ -62,3 +62,56 @@ Full-stack products      ██████████████████�
 DevOps & deployments     ██████████████████
 Data & analytics         ████████████████
 Automation systems       █████████████████
+```
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Faisal2506&show_icons=true&theme=transparent&rank_icon=github&include_all_commits=true&count_private=true" alt="Faisal GitHub stats" />
+  <img height="170" src="https://streak-stats.demolab.com?user=Faisal2506&theme=transparent&hide_border=false" alt="Faisal GitHub streak" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faisal2506&layout=compact&theme=transparent&langs_count=8" alt="Top languages" />
+  <img height="170" src="https://github-profile-trophy.vercel.app/?username=Faisal2506&theme=flat&no-frame=true&row=2&column=4" alt="GitHub trophies" />
+</p>
+
+---
+
+## 📊 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Faisal2506&radius=10&area=true&hide_border=false&custom_title=Faisal%20Contribution%20Graph" alt="Faisal activity graph" />
+</p>
+
+---
+
+## 🎯 Profile Insights
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Faisal2506&theme=github" alt="Profile summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Faisal2506&theme=github" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Faisal2506&theme=github" alt="Most commit language" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Faisal2506&theme=github" alt="Stats summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Faisal2506&theme=github&utcOffset=5" alt="Productive time" />
+</p>
+
+---
+
+## ✨ Animated Section
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Building+AI-powered+products;Shipping+reliable+backend+systems;Automating+workflows+at+scale;Turning+ideas+into+production" alt="Typing animation" />
+</p>
+
+<p align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmZnbXNoemdsYWpybDlqYzltcmZjeTc3OW00NTQydDRjN3hpdDU4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" width="150" alt="Coding gif" />
+</p>
