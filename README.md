@@ -71,22 +71,28 @@ AI workflows             ██████████████████
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Faisal2506&show_icons=true&theme=github_dark&hide_border=true" alt="Faisal's GitHub stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Faisal2506&theme=github-dark-blue&hide_border=true" alt="Faisal's GitHub streak" />
-</p>
-
----
-
 ## 🧩 Contribution Graph
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
 </p>
 
-> This graph is generated using GitHub Actions. If it does not appear immediately, run the workflow once manually from the **Actions** tab.
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faisal2506&theme=github-dark-blue&hide_border=true" alt="GitHub streak stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Faisal2506&theme=github_dark" alt="GitHub profile summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Faisal2506&theme=github_dark" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Faisal2506&theme=github_dark" alt="Most commit language" />
+</p>
 
 ---
 
