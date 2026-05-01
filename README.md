@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Faisal 👋</h1>
 
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmZnbXNoemdsYWpybDlqYzltcmZjeTc3OW00NTQydDRjN3hpdDU4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" width="150" />
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmZnbXNoemdsYWpybDlqYzltcmZjeTc3OW00NTQydDRjN3hpdDU4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" width="150" alt="Coding animation" />
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@
 
 ## 🚀 About Me
 
-I’m a developer who enjoys building practical, production-ready systems — from full-stack web apps to AI calling workflows, backend APIs, infrastructure, automations, and analytics dashboards.
+I’m a developer who enjoys building practical, production-ready systems — from full-stack web apps to AI workflows, backend APIs, infrastructure, automations, and analytics dashboards.
 
 I like working close to real-world problems: shipping features, debugging production issues, improving reliability, and turning rough ideas into usable products.
 
@@ -40,16 +40,42 @@ I like working close to real-world problems: shipping features, debugging produc
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,fastapi,postgres,redis,docker,nginx,linux,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,fastapi,postgres,redis,docker,nginx,linux,git,github,vscode" alt="Tech stack icons" />
 </p>
+
+### Tools & Platforms I Work With
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
+  <img src="https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" alt="Celery" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+</p>
+
+---
+
+## ⚡ What I Like Building
+
+<pre>
+Backend APIs             ████████████████████
+Full-stack products      ███████████████████
+DevOps & deployments     ██████████████████
+Data & analytics         ████████████████
+Automation systems       █████████████████
+AI workflows             ██████████████████
+</pre>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Faisal2506&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Faisal2506&theme=github-dark-blue&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Faisal2506&show_icons=true&theme=github_dark&hide_border=true" alt="Faisal's GitHub stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Faisal2506&theme=github-dark-blue&hide_border=true" alt="Faisal's GitHub streak" />
 </p>
 
 ---
@@ -57,29 +83,37 @@ I like working close to real-world problems: shipping features, debugging produc
 ## 🧩 Contribution Graph
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
 </p>
 
-### Tools & Platforms I Work With
+> This graph is generated using GitHub Actions. If it does not appear immediately, run the workflow once manually from the **Actions** tab.
+
+---
+
+## 🧠 Currently Exploring
+
+- Better AI agent workflows
+- Real-time voice infrastructure
+- Scalable backend systems
+- Product automation
+- Cleaner DevOps and deployment pipelines
+- Better analytics and reporting systems
+
+---
+
+## 🤝 Connect With Me
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <a href="https://github.com/Faisal2506">
+    <img src="https://img.shields.io/badge/GitHub-Faisal2506-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/faisal-shah-b75bb5209">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 ---
 
-## ⚡ What I Like Building
-
-```txt
-Backend APIs             ████████████████████
-Full-stack products      ███████████████████
-DevOps & deployments     ██████████████████
-Data & analytics         ████████████████
-Automation systems       █████████████████
+<p align="center">
+  <b>Building, breaking, debugging, shipping — one system at a time.</b>
+</p>
